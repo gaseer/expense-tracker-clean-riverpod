@@ -14,7 +14,9 @@ An intuitive and efficient Flutter application for tracking and managing your ex
 
 ## Features
 
-### 1. **Filteration**
+##Mainly adding Expenses with below features**
+
+ ### 1. **Filteration**
 - Filter expenses based on custom categories, dates, or other parameters to quickly locate specific records.
 
 ### 2. **Sorting**
@@ -22,6 +24,9 @@ An intuitive and efficient Flutter application for tracking and managing your ex
 
 ### 3. **Progress Bar Visualization**
 - View progress bars that display your spending status for each category, helping you stay on budget.
+
+### 4. **Daily Reminder Notification**
+
 
 ### Prerequisites
 Ensure you have the following installed on your system:
