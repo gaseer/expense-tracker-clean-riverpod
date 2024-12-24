@@ -5,13 +5,10 @@ An intuitive and efficient Flutter application for tracking and managing your ex
 ### Screenshots
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/23945af5-c39b-4536-8fef-25f1006b4ef3" width="300" height="400">
-  <img src="https://github.com/user-attachments/assets/bbb24988-03e0-45b3-a567-d49bcc4d5929" width="300" height="400">
-  <img src="https://github.com/user-attachments/assets/13f5067b-b2af-4e56-8b67-7f0b87161463" width="300" height="400">
+  <img src="https://github.com/user-attachments/assets/23945af5-c39b-4536-8fef-25f1006b4ef3" width="320" height="550">
+  <img src="https://github.com/user-attachments/assets/bbb24988-03e0-45b3-a567-d49bcc4d5929" width="320" height="550">
+  <img src="https://github.com/user-attachments/assets/13f5067b-b2af-4e56-8b67-7f0b87161463" width="320" height="550">
 </div>
-
-
-
 
 ---
 
